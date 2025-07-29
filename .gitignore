@@ -1,0 +1,45 @@
+# Build files
+target/
+build/
+
+# Maven wrapper
+.mvn/wrapper/maven-wrapper.jar
+
+# STS (Spring Tool Suite)
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+# Docker artifacts (local system)
+AppData/Local/Docker/
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# VS Code
+.vscode/
+
+# OS / System Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Ignore everything inside target but allow specific folders in source if needed
+!**/src/main/**/target/
+!**/src/test/**/target/
