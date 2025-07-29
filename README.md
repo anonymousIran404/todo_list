@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Todo List API with Spring Boot 
 
 A simple Java Spring Boot application to manage a Todo list.
@@ -44,3 +45,6 @@ cd todo-list
    Swagger UI: http://localhost:8080/swagger-ui.html
    OpenAPI Docs: http://localhost:8080/v3/api-docs
 
+=======
+# todo_list
+>>>>>>> b835ee1846b63f559893518f250794d2b75d0755
